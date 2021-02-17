@@ -11,4 +11,8 @@ Adding another line here to have multiple commits to use in visual merge tool.
 
 ## Deployment
 
+One more line but only adding and not committing to add it to the staging file. 
+
 ## Conclusion
+
+With the previous line added, I am now saving.
