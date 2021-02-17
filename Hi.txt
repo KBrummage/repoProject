@@ -4,4 +4,6 @@ Here's a third line.
 Here's an extra line for practicing merges.
 One, two, buckle my shoe.
 
+Adding changes before rebasing conflicts (master)
+
 Here's something for rebase.
