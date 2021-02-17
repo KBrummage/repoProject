@@ -18,4 +18,4 @@ One more line but only adding and not committing to add it to the staging file.
 With the previous line added, I am now saving.
 Here's a change for Branch2.
 
-For rebasing example
+For rebasing example, more changes from feature1
