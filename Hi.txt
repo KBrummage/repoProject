@@ -6,5 +6,3 @@ One, two, buckle my shoe.
 
 Adding changes before rebasing conflicts (master).
 Second changes after adding trouble (master).
-
-Here's something for rebase.
