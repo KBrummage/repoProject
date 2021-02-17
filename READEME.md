@@ -20,3 +20,4 @@ With the previous line added, I am now saving.
 Here's a change I made on branch1.
 
 Added copyright to file for add-copyright branch.
+Adding second copyright to file for second commit to see difference in git hist.
